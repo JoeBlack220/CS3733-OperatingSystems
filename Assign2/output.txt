@@ -1,0 +1,7 @@
+Pspman@DESKTOP-FOQRPVV:/mnt/c/Users/carli/OneDrive/UTSA/Year4/CS3733/Assign2$ ls -l *.all
+-rwxrwxrwx 1 root root 80279115 Sep 25 21:58 fcfsa.all
+Pspman@DESKTOP-FOQRPVV:/mnt/c/Users/carli/OneDrive/UTSA/Year4/CS3733/Assign2$ wc *.all
+ 2000001  2000003 80279115 fcfsa.all
+Pspman@DESKTOP-FOQRPVV:/mnt/c/Users/carli/OneDrive/UTSA/Year4/CS3733/Assign2$ md5sum *.all
+ba22ddb347142b10a48d882e27c324de  fcfsa.all
+Pspman@DESKTOP-FOQRPVV:/mnt/c/Users/carli/OneDrive/UTSA/Year4/CS3733/Assign2$

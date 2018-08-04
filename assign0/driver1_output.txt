@@ -1,0 +1,15 @@
+please input an int:
+2
+please input an int:
+13212854
+please double an double:
+2.245
+please double an double:
+1234.213
+please input a string:
+asdasd
+please input a string:
+hello workd
+Largest Integer: 13212854
+Largest Double: 1234.213000
+Longest String: hello workd

@@ -1,0 +1,11 @@
+Student Name: Juan C. Ruiz
+Input File Name: input1.txt
+CPU Scheduling Alg: FIFO
+
+Process 1 is completed at 5 ms
+Process 2 is completed at 12 ms
+Process 3 is completed at 18 ms
+Process 4 is completed at 22 ms
+Average Waiting time = 8.75 ms      (35/4)
+Average Turnaround time = 14.25 ms  (57/4)
+Throughput = 0.18 jobs per ms       (4/22)

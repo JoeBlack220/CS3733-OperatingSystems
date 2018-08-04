@@ -1,0 +1,48 @@
+Student Name: Juan C. Ruiz
+Input File Name: input1.txt
+CPU Scheduling Alg: FIFO
+
+Process 1 is completed at 5 ms
+Process 2 is completed at 12 ms
+Process 3 is completed at 18 ms
+Process 4 is completed at 22 ms
+Average Waiting time = 8.75 ms      (35/4)
+Average Turnaround time = 14.25 ms  (57/4)
+Throughput = 0.18 jobs per ms       (4/22)
+
+Student Name: Juan C. Ruiz
+Input File Name: input1.txt
+CPU Scheduling Alg: SJF
+
+Process 4 is completed at 4 ms
+Process 1 is completed at 9 ms
+Process 3 is completed at 15 ms
+Process 2 is completed at 22 ms
+Average Waiting time = 7.00 ms      (28/4)
+Average Turnaround time = 12.50 ms  (50/4)
+Throughput = 0.18 jobs per ms       (4/22)
+
+Student Name: Juan C. Ruiz
+Input File Name: input1.txt
+CPU Scheduling Alg: PR
+
+Process 2 is completed at 7 ms
+Process 3 is completed at 13 ms
+Process 1 is completed at 18 ms
+Process 4 is completed at 22 ms
+Average Waiting time = 9.50 ms      (38/4)
+Average Turnaround time = 15.00 ms  (60/4)
+Throughput = 0.18 jobs per ms       (4/22)
+
+Student Name: Juan C. Ruiz
+Input File Name: input1.txt
+CPU Scheduling Alg: RR
+
+Process 1 is completed at 5 ms
+Process 4 is completed at 19 ms
+Process 25444928 is completed at 21 ms
+Process 25445008 is completed at 22 ms
+Average Waiting time = 11.25 ms      (45/4)
+Average Turnaround time = 16.75 ms  (67/4)
+Throughput = 0.18 jobs per ms       (4/22)
+

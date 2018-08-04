@@ -1,0 +1,6 @@
+Input File Name    : input1.txt
+CPU Schedule Alg   : FIFO
+CPU utilization    : 29.2%
+Throughput         : 4.27 processes per second
+Turnaround time    : 234.0 ms (average) 702 (total)
+Waiting time       : 119.0 ms (average) 357 (total)
